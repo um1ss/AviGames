@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810202284846",
+    "project_id": "testtaskavigames",
+    "storage_bucket": "testtaskavigames.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810202284846:android:cede938053d29fb11df0bf",
+        "android_client_info": {
+          "package_name": "com.AviGames.Test_task_AviGames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMQedBoQOc6V6rH-U6EYZqeZBv1kGiOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
